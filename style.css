@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0%;
+}
+body
+{
+  background:#010101 ;
+}
+.container img
+{
+  width: 550px;
+  border-radius: 20px;
+  margin: 15px 0px
+}
+
+.main-container
+{
+  width: 60%;
+  margin: auto;
+  font-family: 'Ubuntu', sans-serif;
+  border: 2px solid black;
+  background: #262626;
+  color: rgb(226 232 240);
+}
+
+.container
+{
+  text-align: center;
+
+}
+
+.container h1
+{
+  font-size: 40px;
+  margin: 10px 0px;
+  font-weight: 800;
+}
+
+.container p
+{
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.info
+{
+  padding: 0px 40px;
+  font-size: 18px;
+  word-spacing: 2px;
+  text-align: justify;
+}
+
+.container-3
+{
+  width: 100%;
+}
+.container-4 {
+  width: 24%;
+  margin: auto;
+}
+.container-3  img{
+  width: 200px;
+  align-items: center;
+  margin-top: 15px ;
+}
+
